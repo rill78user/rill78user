@@ -1,0 +1,17 @@
+.body {
+    background-color: whitr;
+}
+
+.header {
+    width: auto;
+    height: max-content;
+    background-color: navy;
+    font-size: 100%;
+    text-align: right;
+    position: fixed;
+    text-decoration: none;
+}
+
+.textD {
+    text-align: left;
+}
